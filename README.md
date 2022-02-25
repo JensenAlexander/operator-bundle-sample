@@ -28,5 +28,9 @@ Make sure that you use the same account to access IBM Cloud Container Registry a
 
 |Profile|ID|
 |---|---|
-|NIST|SC|
+|NIST|AC-7|
+|NIST|AC-3|
 |NIST|AC|
+|NIST|SC-2|
+|NIST|SC-5|
+|NIST|SC|
