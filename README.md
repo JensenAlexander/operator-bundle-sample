@@ -27,5 +27,6 @@ Make sure that you complete the following prerequisites before you begin:
 Make sure that you use the same account to access IBM Cloud Container Registry and to create the Red Hat OpenShift cluster.
 
 |Profile|ID|
+|---|---|
 |NIST|SC|
 |NIST|AC|
